@@ -1,0 +1,15 @@
+# blog page sections
+- name: All 
+  href: /blog/
+ 
+- name: Maya
+  href: /maya/
+
+- name: Rigging
+  href: /rigging/
+
+- name: Python
+  href: /python/
+
+
+

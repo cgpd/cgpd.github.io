@@ -1,0 +1,56 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: 咔咖文化
+  desc:
+    detail: 参与制作TV动画《崩坏星河》，游戏片头《妖精的尾巴》，动画电影《回到过去变成猫》等。熟练掌握PyQt / PySides创建GUI, 自主查文档找资料Debugging, 独立编写相对复杂的工具。
+  date:
+    detail: 2017. 10 - 至今
+  job:
+    detail: 绑定师
+  icon: fa-plus-square
+
+  
+- name:
+    detail: 落溪谷网络
+  desc:
+    detail: 参与制作网络动画电影《时弦》。继续学习Python语言，基本可编写常用绑定工具，初步接触Maya Python API，学习Git，PyCharm等编程工具。
+  date:
+    detail: 2016. 10 - 2017. 10
+  job:
+    detail: 绑定师
+  icon: fa-plus-square
+
+  
+- name:
+    detail: 以赞广告
+  desc:
+    detail: 参与制作动画电影《阿飞向前冲》和各类商业广告等。逐渐从Mel过渡到Python，并开始接触PyMel，PySide等第三方库。
+  date:
+    detail: 2015. 4 - 2016. 10
+  job:
+    detail: 绑定师
+  icon: fa-plus-square
+  
+  
+- name:
+    detail: 皆悦文化
+  desc:
+    detail: 参与制作TV动画《富豪学院》。逐步掌握基于Advanced Skeleton绑定工作流的技巧，初步学习Mel脚本语言。
+  date:
+    detail: 2014. 11 - 2015. 4
+  job:
+    detail: 绑定师
+  icon: fa-plus-square
+  
+
+  
+- name:
+    detail: 原动力科技
+  desc:
+    detail: 参与制作儿歌动画《哆来咪儿歌》。做过模型，绑定，动画等模块。大体了解整个三维制作流程。
+  date:
+    detail: 2012. 9 - 2014. 7
+  job:
+    detail: 三维设计师
+  icon: fa-plus-square

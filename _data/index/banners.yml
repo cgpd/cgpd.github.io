@@ -1,0 +1,14 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+#
+# Images are expected to be located in `static/assets/img/`.
+
+
+- src: landing/header_benghuai.jpg
+  title: 动画TV《崩溃星河》
+  
+- src: landing/header_faceCombo.jpg
+  title: 表情工具Face Combo
+  
+- src: landing/header_afei.jpg
+  title: 动画电影《阿飞向前冲》

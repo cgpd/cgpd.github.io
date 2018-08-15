@@ -1,0 +1,65 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: 'CGPD'
+description: 'Rigging Artist & Character TD'
+# keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+# baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+# url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
+url: http://127.0.0.1:4000
+img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: 彭达
+  first_name: 彭达
+  last_name: 
+  avatar: /static/assets/img/landing/cgpd.jpg
+  bilibili_username: 33323170
+  vimeo_username: user46340183
+  github_username: cgpd
+  linkedin_id: cgpengda
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-python
+    - name: icon-git
+  skill_icon2:
+    - name: fa-code
+    - name: fa-git
+  desc: '我是一名绑定师，立志成为优秀的Character TD。熟悉Python, PyMel, PySide/PyQt, Maya Python API等编程语言和第三方库，工作中时常编写自动化工具，提高工作效率，拓展工作流程。'
+
+# comment
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: Jalpc
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-93473370-3
+
+## google optimize
+go:
+  # id:
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
